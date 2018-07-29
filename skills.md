@@ -17,7 +17,7 @@ ___
 `$ git checkout server`  
 `$ git rebase master`  
 这样执行下来，将server中的修改变基到master上,  
-vserver中的代码被放到了master后面  
+server中的代码被放到了master后面  
 [图42](https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%8F%98%E5%9F%BA#rrbdiag_h)  
 说法有：当前分支(server)变基到目标分支(master)  
 历史记录中目标分支在前，当前分支在后  
